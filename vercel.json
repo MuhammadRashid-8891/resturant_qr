@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/top_kitchen_prep_update2.html" }
+  ]
+}
